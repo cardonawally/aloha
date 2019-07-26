@@ -1,3 +1,6 @@
+![Aloha Project Logo](https://raw.githubusercontent.com/estradav/aloha/master/images/AP_horizontal.png)
+***
+
 - [Why Git?](https://github.com/estradav/aloha#why-git)
 - [Setting up the stack](https://github.com/estradav/aloha#setting-up-the-stack)
   - [Basic stack](https://github.com/estradav/aloha#-basic-stack)
