@@ -104,7 +104,7 @@ Don't forget it's a **competition**, so show us your best version and good luck!
 
 Also... Git is a fun system that will help you to organize all the changes of your projects and the best of all is that you will never lose anything!
 
-So, keep in mind that all challenges for **Aloha Project** must be **forked** and **pushed** into **private repositories** of your GitHub profile. Then, you only have to add the user [**estradav**](https://github.com/estradav) as collaborator of your repositories to visualize your code.
+So, keep in mind that all challenges for **Aloha Project must be forked and pushed into private repositories of your GitHub profile**. Then, you only have to add the user [**estradav**](https://github.com/estradav) as collaborator of your repositories to visualize your code.
 
 ### Example: yourgithubusername Repositories
 
@@ -120,7 +120,7 @@ As you know, everyone needs a home for their projects and you are no exception, 
 
 The use of these technologies has a reason and it's very simple, **DevOps**. **DevOps** is a set of practices that automates the processes between software development and IT teams, so they can build, test, and release software faster and more reliably.
 
-<b>NOTE: Just like your repositories, your environments must also be backed up and shared. Therefore, it is VERY IMPORTANT that you send the image of your environment to the email address that contacted you. In case you have chosen <a href="https://www.docker.com">Docker</a> as Stack, simply load your container to <a href="https://hub.docker.com">Docker Hub</a> and send us the web address of the container by e-mail.</b>
+<b>NOTE: Just like your repositories, your environments must also be backed up and shared. Therefore, it is VERY IMPORTANT that you deliver the virtual machine image on the day of the interview. If you have chosen <a href="https://www.docker.com">Docker</a> as your Stack, simply load your container into <a href="https://hub.docker.com">Docker Hub</a> and send us the web address of the container to the email address that contacted you.</b>
 
 ## <img src="https://img.icons8.com/color/48/000000/virtualbox.png"> Basic stack
 
@@ -129,6 +129,7 @@ The use of these technologies has a reason and it's very simple, **DevOps**. **D
 Okay, this election is boring :disappointed:, but it doesn't matter. Your next steps are:
 
 - Install Linux in the virtual machine
+- Install software requirements
 - Fork and download all the repositories we shared you
 - Solve as many challenges as you can
 
@@ -142,6 +143,7 @@ Vagrant is amazing, it helps you automate development environments, now develope
 
 - Create Vagrantfile
 - Install a Linux Vagrant box
+- Install software requirements
 - Fork and download all the repositories we shared you
 - Solve as many challenges as you can
 
@@ -154,6 +156,7 @@ Vagrant is amazing, it helps you automate development environments, now develope
 Containers help you deploy applications quickly; best of all, they're less complex and consume fewer machine resources. So if this is your choice, congrats. Your next steps are:
 
 - Install Linux container
+- Install software requirements
 - Fork and download all the repositories we shared you
 - Solve as many challenges as you can
 
