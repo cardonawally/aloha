@@ -66,21 +66,32 @@ Don't forget it's a **competition**, so show us your best version and good luck!
     <td><b>Essential</b></td>
   </tr>
   <tr>
-    <td><img src="https://img.icons8.com/officel/48/000000/database.png"></td>
-    <td><a href="https://en.wikipedia.org/wiki/SQL"><b>SQL</b></a></td>
-    <td>Programming language</td>
+    <td><img src="https://img.icons8.com/ios-filled/48/000000/mysql-logo.png"></td>
+    <td><a href="https://en.wikipedia.org/wiki/SQL"><b>MySQL</b></a></td>
+    <td>Database management system</td>
     <td><b>Essential</b></td>
   </tr>
   <tr>
     <td><img src="https://img.icons8.com/dusk/48/000000/php-logo.png"></td>
-    <td><a href="https://www.php.net"><b>PHP</b></a></td>
+    <td><a href="https://www.php.net"><b>PHP 7</b></a></td>
     <td>Programming language</td>
     <td><b>Essential</b></td>
   </tr>
   <tr>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-48/226030.png"></td>
+    <td><a href="http://nginx.org/"><b>NGINX</b></a></td>
+    <td>Web server</td>
+    <td rowspan="2"><b>Essential, use either of the two</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-48/1174973.png"></td>
+    <td><a href="https://httpd.apache.org/"><b>Apache</b></a></td>
+    <td>Web server</td>
+  </tr>
+  <tr>
     <td><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/194_Laravel_logo_logos-48.png"></td>
     <td><a href="https://laravel.com"><b>Laravel</b></a></td>
-    <td>Web framework</td>
+    <td>PHP framework</td>
     <td><b>If you want Extra Points, make <a href="">laravel-crud</a></b></td>
   </tr>
   </tr>
@@ -152,7 +163,7 @@ Containers help you deploy applications quickly; best of all, they're less compl
 
  - <img src="https://img.icons8.com/flat_round/30/000000/question-mark.png"> [Q&A Test](https://github.com): It is made up of some technical questions about computer science and programming languages. 
  - <img src="https://img.icons8.com/color/30/000000/linux.png"> [Linux Test](https://github.com): Exercise your hacker fingers, let's blow up the console!
- - <img src="https://img.icons8.com/officel/30/000000/database.png"> [SQL Test](https://github.com) : Oh... does it look like it's time to start playing with data?
+ - <img src="https://img.icons8.com/ios-filled/30/000000/mysql-logo.png"> [SQL Test](https://github.com) : Oh... does it look like it's time to start playing with data?
  - <img src="https://img.icons8.com/dusk/30/000000/php-logo.png"> [PHP Algorithms Test](https://github.com): Put your imagination to flight and solve as many challenges as you can.
  - <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/194_Laravel_logo_logos-32.png"> [Laravel Test](https://github.com): Now is time to finish! Let's go to create a CRUD in Laravel with Authentication.
 
