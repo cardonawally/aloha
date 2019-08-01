@@ -108,9 +108,9 @@ So, keep in mind that all challenges for **Aloha Project** must be **forked** an
 
 ### Example: yourgithubusername Repositories
 
-- Repository: [yourgithubusername](https://github.com/estradav) / **[sql-querys]()** *forked from* <a href="https://github.com/estradav">estradav / <b>aloha</b></a><br>
-- Repository: [yourgithubusername](https://github.com/estradav) / **[laravel-crud]()** *forked from* <a href="https://github.com/estradav">estradav / <b>aloha</b></a><br>
-- Repository: [yourgithubusername](https://github.com/estradav) / **[php-algorithms]()** *forked from* <a href="https://github.com/estradav">estradav / <b>aloha</b></a>
+- Repository: [yourgithubusername](https://github.com/estradav) / **[sql-queries]()** *forked from* <a href="https://github.com/estradav">estradav / <b>sql-queries</b></a><br>
+- Repository: [yourgithubusername](https://github.com/estradav) / **[php-algorithms]()** *forked from* <a href="https://github.com/estradav">estradav / <b>php-algorithms</b></a><br>
+- Repository: [yourgithubusername](https://github.com/estradav) / **[laravel-crud]()** *forked from* <a href="https://github.com/estradav">estradav / <b>laravel-crud</b></a>
 
 # Setting up the stack
 
